@@ -1,0 +1,5 @@
+C:\Users\ckase\Documents\Visual Studio 2017\Projects\WindowsConsoleApp\IO\bin\Debug\IO.dll
+C:\Users\ckase\Documents\Visual Studio 2017\Projects\WindowsConsoleApp\IO\bin\Debug\IO.pdb
+C:\Users\ckase\Documents\Visual Studio 2017\Projects\WindowsConsoleApp\IO\obj\Debug\IO.csprojResolveAssemblyReference.cache
+C:\Users\ckase\Documents\Visual Studio 2017\Projects\WindowsConsoleApp\IO\obj\Debug\IO.dll
+C:\Users\ckase\Documents\Visual Studio 2017\Projects\WindowsConsoleApp\IO\obj\Debug\IO.pdb

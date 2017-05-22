@@ -1,0 +1,9 @@
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\ServiceContract\bin\Debug\ServiceContract.dll
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\ServiceContract\bin\Debug\ServiceContract.pdb
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\ServiceContract\bin\Debug\Dapper.dll
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\ServiceContract\bin\Debug\Newtonsoft.Json.dll
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\ServiceContract\bin\Debug\Dapper.xml
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\ServiceContract\bin\Debug\Newtonsoft.Json.xml
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\ServiceContract\obj\Debug\ServiceContract.csprojResolveAssemblyReference.cache
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\ServiceContract\obj\Debug\ServiceContract.dll
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\ServiceContract\obj\Debug\ServiceContract.pdb

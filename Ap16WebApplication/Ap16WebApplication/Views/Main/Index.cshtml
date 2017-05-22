@@ -1,0 +1,53 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+<div>
+    <form>
+
+        <div>
+            <button type="button" id="searchButton">Search</button>
+        </div>
+        
+        <div id="divTest">
+        </div>
+
+    </form>
+</div>
+</body>
+</html>
+<script>
+    
+    
+    $('#searchButton').click(function () {
+
+        $(this).button("loading").delay().queue(function () {
+
+            var searchTextBoxValue = $('#searchTextBox').val();
+
+            if (searchTextBoxValue) {
+                $.post(
+                    '@Url.Action("ShowTasks", "Task"))',
+                    function(data) {
+                        if (data) {
+                            $('#divTest').html(data);
+                        }
+                    });
+            }  
+              
+            $(this).button("reset");
+            $(this).dequeue();
+        });
+
+
+    });
+</script>

@@ -1,0 +1,6 @@
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\UnitTests\bin\Debug\UnitTests.dll
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\UnitTests\bin\Debug\Newtonsoft.Json.dll
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\UnitTests\bin\Debug\Newtonsoft.Json.xml
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\UnitTests\obj\Debug\UnitTests.dll
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\UnitTests\obj\Debug\UnitTests.pdb

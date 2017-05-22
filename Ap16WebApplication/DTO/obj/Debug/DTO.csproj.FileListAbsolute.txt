@@ -1,0 +1,7 @@
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\DTO\bin\Debug\DTO.dll
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\DTO\bin\Debug\DTO.pdb
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\DTO\bin\Debug\Newtonsoft.Json.dll
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\DTO\bin\Debug\Newtonsoft.Json.xml
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\DTO\obj\Debug\DTO.dll
+c:\users\ckase\documents\visual studio 2017\Projects\Ap16WebApplication\DTO\obj\Debug\DTO.pdb
+C:\Users\ckase\Documents\Visual Studio 2017\Projects\Ap16WebApplication\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache

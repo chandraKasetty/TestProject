@@ -1,0 +1,31 @@
+﻿@model dynamic
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+    <div>
+        <button type="button" id="searchButton">Search</button>
+    </div>
+<div id="divTest">
+</div>
+</body>
+</html>
+
+<script>
+    $('#searchButton').click(function() {
+        $.post(
+            '@Url.Action("ShowTasks", "Task")',
+        function(data) {
+            $('#divTest').html(data);
+        }
+    );
+    });
+</script>

@@ -1,0 +1,7 @@
+C:\Users\ckase\Documents\Visual Studio 2017\Projects\WindowsConsoleApp\WindowsConsoleApp.Library\bin\Debug\WindowsConsoleApp.Library.dll
+C:\Users\ckase\Documents\Visual Studio 2017\Projects\WindowsConsoleApp\WindowsConsoleApp.Library\bin\Debug\WindowsConsoleApp.Library.pdb
+C:\Users\ckase\Documents\Visual Studio 2017\Projects\WindowsConsoleApp\WindowsConsoleApp.Library\bin\Debug\IO.dll
+C:\Users\ckase\Documents\Visual Studio 2017\Projects\WindowsConsoleApp\WindowsConsoleApp.Library\bin\Debug\IO.pdb
+C:\Users\ckase\Documents\Visual Studio 2017\Projects\WindowsConsoleApp\WindowsConsoleApp.Library\obj\Debug\WindowsConsoleApp.Library.csprojResolveAssemblyReference.cache
+C:\Users\ckase\Documents\Visual Studio 2017\Projects\WindowsConsoleApp\WindowsConsoleApp.Library\obj\Debug\WindowsConsoleApp.Library.dll
+C:\Users\ckase\Documents\Visual Studio 2017\Projects\WindowsConsoleApp\WindowsConsoleApp.Library\obj\Debug\WindowsConsoleApp.Library.pdb
