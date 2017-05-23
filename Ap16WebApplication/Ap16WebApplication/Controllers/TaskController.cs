@@ -15,7 +15,7 @@ namespace Ap16WebApplication.Controllers
         }
 
 
-        // GET: Task/Details/5
+        [HttpPost]
         public async Task<ActionResult> ShowTasks()
         {
             var model = await _serviceApi.GetTaskDetailsAsync();
